@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning C++
 - 📫 How to reach me: Discord, ".anifreak." or "zakkina."
 - 😄 Pronouns: she/her
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: My best on Phigros is Spasmodic, AT 16. S rank. Arcaea is an AA rank on Aegleseeker FT, and Cytoid is a 13.
 
 <!---
 transsuperfreak/transsuperfreak is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
